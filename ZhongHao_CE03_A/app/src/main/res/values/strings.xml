@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZhongHao_CE03_A</string>
+    <string name="warning_empty">Please take a photo</string>
+    <string name="menuItem_title">Camera</string>
+    <string name="string_menuitem_title">Camera</string>
+    <string name="imageView_description">gridView image item</string>
+</resources>

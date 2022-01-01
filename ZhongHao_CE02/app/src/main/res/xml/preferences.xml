@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="User Settings"
+        tools:ignore="TextContrastCheck">
+
+        <ListPreference
+            android:entries="@array/entries_list_preference"
+            android:entryValues="@array/entryvalues_list_preference"
+            android:key="date_format_preference"
+            android:title="Date format preference" />
+
+        <Preference
+            android:key="button_preference"
+            android:title="Delete All Employees" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZhongHao_CE01</string>
+    <string-array name="spinner_options">
+        <item>Movies</item>
+        <item>Games</item>
+        <item>Android</item>
+    </string-array>
+    <string name="offline_toast">Offline Mode</string>
+    <string name="folderPath">AD1/CE01</string>
+    <string name="defaultSearch">gameDevClassifieds</string>
+    <string name="noData_toast">There is no internal data stored.</string>
+</resources>
